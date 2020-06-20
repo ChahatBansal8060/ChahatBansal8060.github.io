@@ -1195,6 +1195,21 @@ section.buttons .container-fluid {
 	background-color: #535ba0!important;
 }
 
+/* Digital Arts Carousel */
+.digital-arts {
+	margin-top: 10px;
+	position: relative;
+	background-color: #1e1f25;
+	margin-left: -20px;
+	margin-right: -20px;
+	padding: 40px;
+}
+
+.carousel-item img {
+    height: 700px !important;
+    width: 850px !important;
+    margin: 0 auto;
+}
 
 /* Header */
 
