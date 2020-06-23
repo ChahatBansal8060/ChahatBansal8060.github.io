@@ -336,7 +336,7 @@ section.contact-form {
 }
 
 .contact-form {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .contact-form .container-fluid {
@@ -1214,15 +1214,16 @@ section.buttons .container-fluid {
 
 /* Digital Arts Carousel */
 .digital-arts {
-    margin-top: 40px;
+    margin-top: 10px;
 	position: relative;
 	background-color: #1e1f25;
-	padding: 20px;
+    padding: 20px;    
+    width: 70%;
 }
 
 .carousel-item img {
     height: 600px !important;
-    width: 750px !important;
+    width: 750vx !important;
     margin: 0 auto;
 }
 
