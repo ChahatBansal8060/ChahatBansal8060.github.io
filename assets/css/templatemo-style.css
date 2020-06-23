@@ -914,6 +914,27 @@ section.buttons .container-fluid {
     margin-bottom: 50px;
 }
 
+/* Goodreads Plugin */
+
+#gr_grid_widget_1592849310{
+    margin-top: 40px;
+}
+
+.gr_grid_container{
+    margin-top: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 98px;
+    height: 160px;
+    padding: 0px 0px;
+    overflow: hidden;
+}
+
 /* Sidebar */
 
 #sidebar {
