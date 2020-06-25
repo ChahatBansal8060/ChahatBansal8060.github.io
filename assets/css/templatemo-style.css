@@ -1217,15 +1217,34 @@ section.buttons .container-fluid {
     margin-top: 10px;
 	position: relative;
 	background-color: #1e1f25;
-    padding: 20px;    
+    /* padding: 10px;     */
     width: 80%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
-.carousel-item img {
+.digital-arts .container-fluid {
+    padding: 0px;
+}
+
+.digital-arts .container-fluid .carousel-item img {
     height: 600px !important;
     width: 800vx !important;
     margin: 0 auto;
 }
+
+.digital-arts .container-fluid #myCarousel .carousel-control-prev .carousel-control-prev-icon{
+    height: 50%;
+    width: 50%;
+}
+
+.digital-arts .container-fluid #myCarousel .carousel-control-next .carousel-control-next-icon{
+    height: 50%;
+    width: 50%;
+}
+
 
 /* Header */
 
