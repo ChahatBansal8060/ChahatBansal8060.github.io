@@ -1218,12 +1218,12 @@ section.buttons .container-fluid {
 	position: relative;
 	background-color: #1e1f25;
     padding: 20px;    
-    width: 80%;
+    width: 75%;
 }
 
 .carousel-item img {
     height: 600px !important;
-    width: 750vx !important;
+    width: 800vx !important;
     margin: 0 auto;
 }
 
