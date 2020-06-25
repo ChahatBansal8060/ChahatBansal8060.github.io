@@ -116,9 +116,7 @@ section {
 
 .main-banner .banner-content .banner-caption {
     max-width: 600px;
-    /* height: 500px; */
-    /* width: 35vw; */
-    height: 55vx;
+    height: 500px;
 	background-color: rgba(250,250,250,0.95);
 	margin: 50px;
     padding: 30px;
@@ -127,19 +125,11 @@ section {
 }
 
 .main-banner .banner-content .banner-caption h4 {
-	font-size: 40px;
+	font-size: 38px;
 	font-weight: 700;
 	color: #31323a;
 	letter-spacing: 0.25px;
 	margin: 0px;
-}
-
-.main-banner .banner-content .banner-caption h3 {
-	font-size: 1.5vx;
-}
-
-.main-banner .banner-content .banner-caption h5 {
-	font-size: 1.2vx;
 }
 
 .main-banner .banner-content .banner-caption em {
@@ -1281,7 +1271,7 @@ section.buttons .container-fluid {
     line-height: 100px;
 }
 #header .logo a {
-	font-size: 30px;
+	font-size: 36px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	color: #fff;
