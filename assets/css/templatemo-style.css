@@ -1218,7 +1218,7 @@ section.buttons .container-fluid {
 	position: relative;
 	background-color: #1e1f25;
     padding: 20px;    
-    width: 75%;
+    width: 100%;
 }
 
 .carousel-item img {
